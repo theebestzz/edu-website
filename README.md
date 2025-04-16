@@ -1,4 +1,4 @@
-## 🎉 Teşekkürler!
+## 🎉 Giriş Seviyesi için Basit Bir Web Site Örneği
 
 Öncelikle, [SI Educational - Free Next.js Landing Page Template](https://getnextjstemplates.com/products/si-educational-free-nextjs-landing-page-template) temasını ücretsiz sunduğunuz için teşekkür ederiz. 🚀
 
